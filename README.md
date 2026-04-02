@@ -38,4 +38,7 @@ Form validation on all inputs
 Data backup warnings before clearing
 The system is now completely self-contained and will retain all data between browser sessions. You can create, edit, delete, and manage cases, documents, and clients exactly like a real court management system.
 
+#CourtManagement #LegalTech #CaseManagement #Django #React #FullStack #Judiciary #LawFirm #CaseTracking #HearingSchedule #DocumentManagement #LawyerPortal #ClientPortal #JudgmentDatabase #LegalDocuments #CourtCalendar #WebApp #Database #OpenSource #JusticeTech
+
+
 for full verion contact (professorshami435@gmail.com)
