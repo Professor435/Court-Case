@@ -41,4 +41,4 @@ The system is now completely self-contained and will retain all data between bro
 #CourtManagement #LegalTech #CaseManagement #Django #React #FullStack #Judiciary #LawFirm #CaseTracking #HearingSchedule #DocumentManagement #LawyerPortal #ClientPortal #JudgmentDatabase #LegalDocuments #CourtCalendar #WebApp #Database #OpenSource #JusticeTech
 
 
-for full verion contact (professorshami435@gmail.com)
+contact for projects and FYP's(professorshami435@gmail.com)
