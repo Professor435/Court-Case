@@ -7,7 +7,7 @@ Case Management (Full CRUD)
 Create new cases with complete details (ID, type, client, attorney, dates, description)
 Read case details with organized tabbed interface (Overview, Documents, Timeline, Notes)
 Update existing cases inline with pre-populated forms
-Delete cases with confirmation dialogs and cascade deletion of associated documents
+Delete cases with confirmation dialogs and cascade deletion of associated documents 
 Advanced Features
 Real-time search across all case fields 
 Multi-level filtering by status, type, and priority
