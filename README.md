@@ -9,7 +9,7 @@ Read case details with organized tabbed interface (Overview, Documents, Timeline
 Update existing cases inline with pre-populated forms
 Delete cases with confirmation dialogs and cascade deletion of associated documents 
 Advanced Features
-Real-time search across all case fields 
+Real-time search across all case fields  
 Multi-level filtering by status, type, and priority
 Interactive calendar with hearing dates highlighted
 Drag-and-drop ready document management system
